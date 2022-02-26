@@ -1,0 +1,57 @@
+.img1{
+  margin-top: -56px;
+  width:100%;
+}
+.c1{
+  margin-top: -210px;
+}
+.c2 .col-10{
+  height:400px;
+  background-color: white;
+  border: 2px solid red;
+}
+.c2 .row{
+  display: flex;
+}
+
+.c2{
+margin-top:40px;
+}
+#h2{
+  background-color: rgb(171, 172, 174);
+}
+.c3{
+  margin-top:25px;
+}
+footer{
+  position: sticky;
+}
+.simg{
+  height:100px;
+  width:100px;
+  border-radius: 50%;
+  background-color: red;
+}
+.navbar li{
+  padding-left:40px;
+}
+nav li a{ 
+color:white;
+}
+#form1{
+  text-align: center;
+}
+.navbar{
+  box-shadow: 0 1px 1px #efefef;
+}
+#navbarNav{
+  justify-content: flex-end;
+}
+
+.tableview{
+  z-index:5;
+  margin-top:80px;
+}
+i:hover{ 
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
